@@ -40,4 +40,4 @@
 
 ------
 
-[Github](https://github.com/talbertosilva)    [Portfolio](https://talbertosilva.github.io/portfolio/)
+[Github]([https://github.com/talbertosilva](https://github.com/Berna58))    [Portfolio](https://talbertosilva.github.io/portfolio/)
