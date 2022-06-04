@@ -66,5 +66,3 @@
 
 -----
 Credits: [7oSkaaa](https://github.com/7oSkaaa)
-
-Last Edited on: 10/02/2022
