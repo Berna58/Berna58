@@ -41,7 +41,7 @@
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=berna58&theme=react&show_icons=true&include_all_commits=true" />&nbsp
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoazevedo&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berna58&theme=react&layout=compact" />
 </p>
 
 ------
