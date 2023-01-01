@@ -46,4 +46,4 @@
 
 ------
 
-[Github](https://github.com/Berna58)    [Portfolio](https://berna58.github.io/portfolio/)
+[Github](https://github.com/Berna58)    [Portfolio]( https://Berna58.github.io.)
