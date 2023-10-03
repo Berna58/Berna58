@@ -61,6 +61,7 @@
 ![Maya](https://img.shields.io/badge/-maya-0D1117?style=for-the-badge&logo=maya&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![OBSStudio](https://img.shields.io/badge/-obsstudio-0D1117?style=for-the-badge&logo=obsstudio&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Draw.IO](https://img.shields.io/badge/-draw.io-0D1117?style=for-the-badge&logo=draw.io&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Trello](https://img.shields.io/badge/-trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
