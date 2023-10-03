@@ -21,6 +21,7 @@
 <a href="https://instagram.com/bernaazevedo58" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:cmp.1a.bernardosilvaazevedo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bernardo-azevedo-3321aa173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://berna58.github.io" target="_blank"><img src="https://img.shields.io/badge/-Blog-%98FBFF?style=for-the-badge&logo=portfolio&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
  ### Skills:
